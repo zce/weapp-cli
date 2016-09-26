@@ -1,0 +1,34 @@
+{
+  "name": "weapp-cli",
+  "version": "0.0.0",
+  "description": "A command line interface application for wechat weapp runtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zce/weapp-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "command",
+    "weapp",
+    "wechat",
+    "weixin",
+    "xiaochengxu",
+    "wechat-app",
+    "zce",
+    "iceStone",
+    "micua",
+    "micua.com",
+    "wedn",
+    "wedn.net"
+  ],
+  "author": "iceStone <ice@micua.com> (https://www.micua.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zce/weapp-cli/issues"
+  },
+  "homepage": "https://github.com/zce/weapp-cli#readme"
+}
